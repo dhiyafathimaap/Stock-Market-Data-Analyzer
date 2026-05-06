@@ -25,3 +25,6 @@ A professional Python-based engine designed to automate the extraction, processi
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Stock-Market-Data-Analyzer.git](https://github.com/YOUR_USERNAME/Stock-Market-Data-Analyzer.git)
+
+
+Disclaimer: This software is for educational purposes only. It is not financial advice. Use at your own risk.
